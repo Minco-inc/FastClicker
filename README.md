@@ -7,7 +7,7 @@
 <p align=left>
 FastClick is Made from SoulCampFire is made of windows exe file or executable file.<br>
 <br>
-1.) <a href="https://github.com/SoulCampFire/FastClicker/releases/latest/FastClicker.exe" title="Download Official FastClicker">Download</a> the FastClicker Software.<br>
+1.) <a href="https://github.com/SoulCampFire/FastClicker/releases/download/latest/FastClicker.exe" title="Download Official FastClicker">Download</a> the FastClicker Software.<br>
 2.) Execute the Downloaded file.<br>
 3.) Configure the FastClicker.</br>
 </p>
